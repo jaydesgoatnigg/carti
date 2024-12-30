@@ -90,7 +90,7 @@ library.themes = {
     ['Option Text 3']             = Color3.fromRGB(145, 145, 145),
     ['Option Border 1']           = Color3.fromRGB(20, 20, 20),
     ['Option Border 2']           = Color3.fromRGB(0, 0, 0),
-    ['Option Background']         = Color3.fromRGB(35, 35, 35),
+    ['Option Background']         = Color3.fromRGB(6, 6, 6),
     ['Risky Text']                = Color3.fromRGB(175, 21, 21),
     ['Risky Text Enabled']        = Color3.fromRGB(255, 41, 41),
 }
